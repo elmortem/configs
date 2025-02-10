@@ -1,0 +1,22 @@
+{
+  "displayName": "Configs",
+  "name": "com.elmortem.configs",
+  "author": 
+  {
+    "name": "Makar Osokin", 
+    "email": "elmortem@gmail.com", 
+    "url": "https://makar.rs"
+  },
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "description": "Simple configs",
+  "keywords": [
+    "configs",
+	"scriptable object",
+	"unity",
+	"tools",
+	"utility"
+  ],
+  "changelogUrl": "https://github.com/elmortem/configs/blob/master/CHANGELOG.md",
+  "category": "Editor"
+}

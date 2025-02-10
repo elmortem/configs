@@ -1,0 +1,20 @@
+{
+    "name": "Configs",
+    "rootNamespace": "Configs",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.elmortem.configs",
+            "expression": "0.0.1",
+            "define": "ELMCFG"
+        }
+    ],
+    "noEngineReferences": false
+}
